@@ -307,11 +307,11 @@ python brkga_coverage.py --instance Instancia_18 --pop_size 50
 ## References
 
 - **BRKGA:** Bean, J. C. (1994). Genetic Algorithms and Random Keys for Sequencing and Optimization.
-- **Original Problem:** MDRPcorporativo.ipynb
+- **Original Problem:** Meal Delivery Routing Problem
 
 ## Contact
-
-For questions or issues, refer to the original notebook and planning documentation.
+Daniel Sebastian Giraldo Herrera
+ds.giraldoh@uniandes.edu.co
 
 ---
 
